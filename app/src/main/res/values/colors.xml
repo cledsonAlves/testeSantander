@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#cc0000</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="test_red">#e00303</color>
+    <color name="test_background_button_santander">#6d6d6d</color>
+    <color name="test_white">#e9f4e6</color>
 </resources>

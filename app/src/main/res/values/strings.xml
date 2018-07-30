@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">teste</string>
+    <string name="app_button_investiments">Investimentos</string>
+    <string name="app_button_contatct">Contato</string>
+    <string name="app_button_send">Enviar</string>
 </resources>

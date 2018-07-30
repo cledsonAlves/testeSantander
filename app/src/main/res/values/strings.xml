@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">teste</string>
+
+
+    <!-- form -->
+    <string name="app_text_name">Nome Completo</string>
+    <string name="app_text_mail">Email</string>
+    <string name="app_text_phone">Telefone</string>
     <string name="app_button_investiments">Investimentos</string>
     <string name="app_button_contatct">Contato</string>
     <string name="app_button_send">Enviar</string>
+    <string name="app_check_register_mail">Gostaria de cadastrar meu email</string>
 </resources>
